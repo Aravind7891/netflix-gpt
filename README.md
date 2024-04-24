@@ -1,6 +1,9 @@
 ##
 - Create React app
 - confuguration
+- Header
+- Login form
+- SignUp
 
 
 ## Features
