@@ -17,6 +17,4 @@
      - MovieLists * N
 - Netflix Gpt
  - search Bar
- - Movie Suggestion.git remote add origin git@github.com:Aravind7891/netflix-gpt.git
-git branch -M main
-git push -u origin main
+ - Movie Suggestion
