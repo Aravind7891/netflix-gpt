@@ -1,0 +1,6 @@
+{
+    "workbench.settings.useSplitJSON": false,
+    "terminal.integrated.automationProfile.linux": {},
+    "terminal.integrated.automationProfile.windows": {},
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
