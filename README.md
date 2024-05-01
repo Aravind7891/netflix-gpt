@@ -33,7 +33,10 @@
 - TMDB Image CDB URL
 - made the browse page amazing
 - UsepopularMovies
-
+- GPT search feature
+- GPT Search Bar
+- ** Multi-lang Feature in app
+- Integrated GPT API's(Get OpenAi)
 
 ## Features
 
