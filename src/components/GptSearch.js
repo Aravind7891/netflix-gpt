@@ -5,14 +5,16 @@ import { HEADER_LOGO } from "../utils/constant";
 
 const GptSearch = () => {
   return (
-    <div>
+    <>
       <div className="fixed -z-10">
-        <img src={HEADER_LOGO} alt="logo" />
+        <img className=" object-cover max-w-max	" src={HEADER_LOGO} alt="logo" />
       </div>
-      <GptSearchBar />
-      <GptMovieSuggestions />
-    </div>
+      <div className="">
+        <GptSearchBar />
+        <GptMovieSuggestions />
+      </div>
+    </>
   );
 };
- 
+
 export default GptSearch;
