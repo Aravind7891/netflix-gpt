@@ -75,7 +75,7 @@ const Header = () => {
           </button>
           <img
             alt="user-icon"
-            className=" hidden md:block w-12 h-12"
+            className=" hidden w-12 h-12"
             src={user?.photoURL}
           />
           <button onClick={handleSignOut} className="font-bold text-white">
