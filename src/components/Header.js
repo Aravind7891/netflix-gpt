@@ -55,7 +55,8 @@ const Header = () => {
       <img className="w-44" src={LOGO} alt="logo" />
       {user && (
         <div className="flex p-2">
-          { showGptSearch && (<select
+          { showGptSearch && (
+          <select
             className="p-2 m-2 bg-green-950 text-white rounded-lg"
             onClick={handleLanguageChange}
           >

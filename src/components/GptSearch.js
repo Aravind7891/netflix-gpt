@@ -6,7 +6,7 @@ import { HEADER_LOGO } from "../utils/constant";
 const GptSearch = () => {
   return (
     <div>
-      <div className="absolute -z-10">
+      <div className="fixed -z-10">
         <img src={HEADER_LOGO} alt="logo" />
       </div>
       <GptSearchBar />
